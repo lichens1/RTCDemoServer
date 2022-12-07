@@ -11,16 +11,16 @@
     "url": "https://github.com/pchab/ProjectRTC.git"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "ejs": "^1.0.0",
     "errorhandler": "^1.5.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-session": "^1.11.1",
-    "forever": "0.10.8",
+    "forever": "4.0.3",
     "jade": "^1.9.2",
     "method-override": "^2.3.10",
     "morgan": "^1.9.1",
-    "multer": "^0.1.8",
+    "multer": "^1.4.5-lts.1",
     "serve-favicon": "^2.5.0",
     "socket.io": "^1.0.6"
   }
